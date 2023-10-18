@@ -2,7 +2,7 @@
 
 ### ERD:
 
-![ERD](./erdPizzaAPI.png)
+![drawSQL-pizza](https://github.com/axel-ac/pizzaAPI/assets/102467587/b2fcbd8d-947f-437d-8dbf-f5a5004764f9)
 
 ### Folder/File Structure:
 
